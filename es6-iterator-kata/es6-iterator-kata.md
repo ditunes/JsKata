@@ -38,8 +38,4 @@ Output:
 + [ES6 Generators](https://davidwalsh.name/es6-generators)
 + [for ... of](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Statements/for...of)
 
-# 讨论群
 
-微信加我好友 (hayeah666)，我拉你入讨论群。
-
-![hayeah666](../hayeah666.png)
